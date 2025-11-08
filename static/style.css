@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    background-color: rgb(227, 240, 138);
+    font-style: italic;
+    font-size: larger;
+    font-weight: 200;
+}
+    
