@@ -10,3 +10,25 @@ h1{
     font-weight: 200;
 }
     
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    font-weight: 200;  
+    font-size: 18px; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+.container{
+    padding: 20px;
+    background-color: cornsilk;
+    border-radius: 45px;
+    border: 2px solid black;
+    font-style: italic;
+    -webkit-border-radius: 45px;
+    -moz-border-radius: 45px;
+    -ms-border-radius: 45px;
+    -o-border-radius: 45px;
+}
+
